@@ -1,3 +1,4 @@
+import {} from '../lib/modernExtend';
 import fz from '../converters/fromZigbee';
 import tz from '../converters/toZigbee';
 import * as exposes from '../lib/exposes';
